@@ -1,0 +1,31 @@
+
+let diadesemana = prompt("Qual o dia da semana?");
+if(diadesemana == domingo){
+    alert('Bom fim de semana');
+
+}else if {
+        alert("bom fim de semana");
+}else{
+    alert("Boa semana")
+}
+
+let numero = prompt("Digite um numero");
+if(numero>=0){
+    alert("numero positivo");
+}else{
+    alert("numero negativo")
+}
+
+pontuacao = 105;
+if (pontuacao >= 100) {
+    console.log('Parabéns, você venceu!');
+} else {
+    console.log('Tente novamente para ganhar.');
+}
+
+let saldo= 150;
+
+alert(`Seu saldo da conta é ${saldo}`);
+
+let nome = prompt("Digite seu nome:");
+alert(`Seja Bem-Vindo ${nome}`);
